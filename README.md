@@ -196,3 +196,27 @@ Assessed against published pH ranges for six crops:
 ---
 
 ## Project Structure
+
+soil-ph-crop-suitability/
+│
+├── README.md
+├── Research Project (Soil pH Crop Suitability Analysis).ipynb
+│
+├── data_raw/
+│   ├── Nigeria_soil_data_preliminary.csv
+│   └── README.md
+│
+├── figures/
+│   ├── step5_spatial_basic.png
+│   ├── step5_spatial_ph_coloured.png
+│   ├── step6_ph_histogram.png
+│   ├── step6_ph_boxplot.png
+│   ├── step6_ph_by_depth.png
+│   ├── step6_ph_classes.png
+│   ├── step6_crop_suitability.png
+│   ├── soil_ph_summary.csv
+│   ├── step6_crop_suitability.csv
+│   ├── step6_regional_ph.csv
+│   └── step7_final_summary.csv
+│
+└── requirements.txt
