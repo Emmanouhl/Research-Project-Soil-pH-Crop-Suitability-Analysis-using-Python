@@ -272,8 +272,10 @@ soil-ph-crop-suitability/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/matplotlib-visualization-projects.git
-cd matplotlib-visualization-projects
+git clone https://github.com/yourusername/Research-Project-Soil-pH-Crop-Suitability-Analysis-using-Python
+-projects.git
+cd Research-Project-Soil-pH-Crop-Suitability-Analysis-using-Python
+-projects
 
 ---
 
