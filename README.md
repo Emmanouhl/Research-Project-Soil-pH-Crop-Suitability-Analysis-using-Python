@@ -272,15 +272,12 @@ soil-ph-crop-suitability/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/Research-Project-Soil-pH-Crop-Suitability-Analysis-using-Python
--projects.git
+git clone https://github.com/yourusername/Research-Project-Soil-pH-Crop-Suitability-Analysis-using-Python.git
 cd Research-Project-Soil-pH-Crop-Suitability-Analysis-using-Python
--projects
 
 ---
 
-
-Authors
+## Authors
 
 Mustapha Emmanuel Oladeji and Vivian Moyosore Gomes
 
