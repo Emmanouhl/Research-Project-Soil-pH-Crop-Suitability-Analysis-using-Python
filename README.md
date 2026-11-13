@@ -265,3 +265,44 @@ soil-ph-crop-suitability/
 │
 
 └── requirements.txt
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/yourusername/matplotlib-visualization-projects.git
+cd matplotlib-visualization-projects
+
+---
+
+
+Authors
+
+Mustapha Emmanuel Oladeji and Vivian Moyosore Gomes
+
+📧 Email: [mustaphaemmanuelola@gmail.com]
+🔗 LinkedIn: [https://linkedin.com/in/mustaphaemmanouelola]
+🐙 GitHub: [https://github.com/Emmanouhl]
+
+---
+
+Acknowledgments
+
+This project was completed as part of the Python Study Group – GIFTIII
+Dataset: AFSIS Nigeria soil dataset (accessed via iSDA)
+Crop pH ranges: Published agronomic reference values
+
+---
+
+License
+
+This project is open for educational and portfolio purposes.
+
+---
+
+Built with Python – Turning raw data into business intelligence.
+
+Happy Analyzing!
+
