@@ -257,7 +257,11 @@ soil-ph-crop-suitability/
 │   ├── soil_ph_summary.csv
 
 │   ├── step6_crop_suitability.csv
+
 │   ├── step6_regional_ph.csv
+
 │   └── step7_final_summary.csv
+
 │
+
 └── requirements.txt
