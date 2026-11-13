@@ -277,7 +277,7 @@ cd Research-Project-Soil-pH-Crop-Suitability-Analysis-using-Python
 
 ---
 
-## Authors
+Authors
 
 Mustapha Emmanuel Oladeji and Vivian Moyosore Gomes
 
